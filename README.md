@@ -51,6 +51,7 @@
 - [ ] Others (strace, dtrace, systemtap, uname, df, history, nslookup, host, w, last, )
 
 ### Networking, Security and Protocols
+- [ ] Computer networks by Tanenbaum
 - [ ] HTTP
 - [ ] HTTPS
 - [ ] FTP
