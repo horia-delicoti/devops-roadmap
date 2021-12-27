@@ -1,5 +1,11 @@
 ## Devops Roadmap
 
+### To do:
+- Terraform
+- AWS
+- Bash ( vim, tmux, live in terminal)
+- linux sys admin
+
 ### List of reading
 - [ ] [How Linux Works What Every Superuser Should Know](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 - [ ] [Linux System admin, tar, untar, alias, cronjobs, systemctl/service, iptables, ps, htop, ]
@@ -14,7 +20,7 @@
 - [ ] [load balancer, cloudflare]
 - [ ] [makefile: https://makefiletutorial.com/]
 - [ ] [https://www.whatsmydns.net]
-- [ ] https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server
+- [ ] [https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server]
 - [ ] [ruby]
 
 
@@ -101,7 +107,7 @@
 - [ ] Containers
   - [ ] Docker
 - [ ] Configuration Management
-  - [X] Puppet
+  - [X]  [Puppet](https://puppet.com/docs/puppet/7/puppet_index.html)
   - [ ] Ansible
 - [ ] Container Orchestration
   - [ ] Kubernetes
