@@ -1,26 +1,30 @@
 ## Devops Roadmap
 
-### To do:
+### In progress
+1) Terraform + AWS
+2) Configuration Management (Ansible)
+3) Python / bash
+4) Linux
 
 ### List of reading
 - [ ] [OS books]
 - [ ] [agile methodology (epic, story, etc)]
 - [ ] [nginx, redirect, auth, https, security, openssl]
-- [ ] [load balancer, cloudflare]
 - [ ] [https://www.whatsmydns.net]
 - [ ] [https://www.pcmag.com/how-to/how-and-why-to-change-your-dns-server]
 
-
 ### Programming Language
-- [ ] [Python]()
-- [ ] [Ruby](https://github.com/horia-delicoti/rails-roadmap)
+- [ ] [Python - PCEP – Certified Entry-Level Python Programmer](https://pythoninstitute.org/certification/pcep-certification-entry-level)
 - [ ] [OOP]()
 - [ ] [Algorithms and Data Structure]()
 
 ## Understand different OS concepts
 ### Linux
+- [ ] [Linux in a Nutshell 6th Edition]()
+- [ ] [The Linux Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
+- [ ] [The Linux Documentation Project](https://tldp.org/)
 - [ ] [Linux System admin, tar, untar, alias, cronjobs, systemctl/service, iptables, ps, htop, ]
-    - [linux sys admin](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [ ] [linux sys admin](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - [ ] [How Linux Works What Every Superuser Should Know](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 
 ### [Operating Systems](https://github.com/horia-delicoti/books#operating-systems)
@@ -37,25 +41,26 @@
 
 ### Live in Terminal
 - [ ] [Learn bash scripting](LearningthebashShell,3rdEdition.pdf)
-- [ ] Vim/Nano/Powershell/Emacs
+- [ ] Vim (Learning VIM Editor, Learning bash SHELL)
 - [ ] Source control: Git
 - [ ] Compiling apps from source (gcc, make, ...)
 - [ ] System Performance (nmon, iostat, sar, vmstat)
-- [ ] Text manipulation Tools (awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc)
+- [ ] Text manipulation Tools (awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc) # sed and awk pocket reference pdf
 - [ ] Process Monitoring (ps, top, htop, atop, lsof)
 - [ ] Network (nmap, tcpdump, ing, mtr, traceroute, dig, arimon, airodump, iptables, netstat)
 - [ ] Others (strace, dtrace, systemtap, uname, df, history, nslookup, host, w, last, )
-- [ ] [makefile](https://makefiletutorial.com/]
+- [ ] [makefile](https://makefiletutorial.com/] # Managing projects with Make
 - [ ] bash
 - [ ] tmux
 
 ### Networking, Security and Protocols
-- [ ] [Network Tanenbaum for ssl, openssl or'reiley book]
+- [ ] [The Network Administrator's Guide](https://tldp.org/LDP/nag/node1.html#SECTION001000000)
+- [ ] [TCPI/IP] Network Administrator
 - [ ] Computer networks by Tanenbaum
 - [ ] HTTP
 - [ ] HTTPS
 - [ ] FTP
-- [ ] SSL / TLS
+- [ ] SSL/TLS
   - [about certificates and PKI](https://smallstep.com/blog/everything-pki/)
   - [how ssl TLS works](https://www.websecurity.digicert.com/security-topics/how-ssl-works)
   - [SSL and SSL Certificates Explained For Beginners](http://www.steves-internet-guide.com/ssl-certificates-explained/)
@@ -72,14 +77,16 @@
 - [networking commands](https://www.fosslinux.com/42935/linux-networking-commands.htm)
 - [linux network commands](https://www.javatpoint.com/linux-networking-commands)
 
+### Database
+
 ### Security
 ### Cloud
-- [ ] AWS
+- [ ] AWS (VPC, EC2, IAM, S3, CloudWatch, ELB (under the EC2 umbrella), and Security Groups)
 - [ ] Google Cloud
 
 ### Scripting:
 - [ ] Bash
-- [X] Ruby
+- [ ] [Ruby](https://github.com/horia-delicoti/rails-roadmap)
 
 ### What is and how to setup ...
 - [ ] Reverse Proxy
@@ -106,22 +113,20 @@
 - Container Orchestration
   - [ ] [Kubernetes](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 - Configuration Management
-  - [X]  [Puppet](https://puppet.com/docs/puppet/7/puppet_index.html)
+  - [X] [Puppet](https://puppet.com/docs/puppet/7/puppet_index.html)
   - [ ] Ansible
 
 ### CI/CD tools
 - [ ] Gitlab CI
 - [ ] Jenkins
-- [ ] Bamboo
 - [ ] GitHub Actions
 - [ ] CircleCI
-
-### Learn about Managing Servers
 
 
 ### Link
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [Devops Tutorial](https://www.softwaretestinghelp.com/devops-tutorials/)
+- [How to become a devops engineer](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 
 
 ### Notes
