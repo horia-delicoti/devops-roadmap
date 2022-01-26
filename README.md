@@ -57,7 +57,7 @@
 - [ ] [The Network Administrator's Guide](https://tldp.org/LDP/nag/node1.html#SECTION001000000)
 - [ ] [TCPI/IP] Network Administrator
 - [ ] Computer networks by Tanenbaum
-- [ ] HTTP
+- [ ] DNS/TCP/HTTP protocols
 - [ ] HTTPS
 - [ ] FTP
 - [ ] SSL/TLS
@@ -69,7 +69,6 @@
   - [ ] SSH2
   - [ ] [SSH book; CNAME, A, DNS, commands]
 - [ ] Network (nmap, tcpdump, ing, mtr, traceroute, dig, arimon, airodump, iptables, netstat)
-- [ ] DNS
 - [ ] Port Forwarding
 - [ ] Wifi (protocols, electromagentic field, encryption, iwconfig, etc)
 
@@ -122,6 +121,8 @@
 - [ ] GitHub Actions
 - [ ] CircleCI
 
+### Professional Certificates
+- [ ] [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
 ### Link
 - [DevOps Roadmap](https://roadmap.sh/devops)
@@ -132,3 +133,16 @@
 ### Notes
 - Provision Grafana with Prometheus
 - [Use minikube to create a cluster](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/)
+
+### Recommended reading
+- “The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition). Addison-Wesley Professional, 2015”
+- “The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win.”
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations”
+- “The Practice of System and Network Administration (2nd Edition)”
+- The Practice of Cloud System Administration”
+- “Linux Command Line and Shell Scripting Bible (3rd Edition)”
+- “Sed & Awk (2nd Edition)”
+- “The Hacker Playbook 2: Practical Guide To Penetration Testing.”
+- “Practical Vim: Edit Text at the Speed of Thought.”
+- “The Linux Command Line: A Complete Introduction”
+- “Automate the Boring Stuff with Python: Practical Programming for Total Beginners”
